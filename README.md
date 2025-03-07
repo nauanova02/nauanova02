@@ -27,11 +27,11 @@ I have hands-on experience working with **real-time IoT data, blockchain applica
 ## **📌 Featured Projects**
 Here are some of my best projects that showcase my skills in **Data Science, Cloud Computing, and AI**:
 
-📌 **[🔗 P2P Energy Trading on Blockchain](GitHub Repo Link)**  
+📌 **[🔗 P2P Energy Trading on Blockchain]([GitHub Repo Link](https://github.com/nauanova02/p2p-energy-trading.git))**  
 🔹 Developed a **permissioned blockchain-based energy trading platform** using **Solidity smart contracts** & **Web3.js**  
 🔹 Ensured secure and transparent transactions using **Quorum blockchain**  
 
-📌 **[🤖 Multi-Agent System Deployment on AWS](GitHub Repo Link)**  
+📌 **[🤖 Multi-Agent System Deployment on AWS]([GitHub Repo Link](https://github.com/nauanova02/multi-agent-system.git))**  
 🔹 Built a **distributed JADE multi-agent system** and deployed it on **AWS EC2**  
 🔹 Implemented **Auto Scaling & Load Balancing** to optimize performance  
 
