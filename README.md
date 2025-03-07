@@ -60,8 +60,8 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 
 ## **📈 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidanauanova&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidanauanova&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=nauanova02&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nauanova02&theme=radical" width="48%" alt="GitHub Streak">
 </p>
 
 ---
