@@ -45,7 +45,7 @@ I have hands-on experience working with **real-time IoT data, blockchain applica
 ### **🔗 Blockchain & Smart Contracts**
 ✅ **Smart Contract Development:** Solidity, Web3.js  
 ✅ **Permissioned Blockchain Platforms:** Quorum  
-✅ **Decentralized Applications (DApps):** Ethereum, IPFS  
+✅ **Decentralized Applications (DApps):** Ethereum
  
 ---
 
