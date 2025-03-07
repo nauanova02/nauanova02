@@ -39,8 +39,8 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 🔹 Processed real-time **IoT sensor data** using **MQTT & MongoDB**  
 🔹 Built an **XGBoost-based time series model** for smart comfort prediction  
 
-📌 **[⚡ Urban Energy Forecasting (Thesis Project)](GitHub Repo Link)**  
-🔹 Developed a **data-driven energy forecasting model** using **Python, XGBoost & Time-Series Analysis**  
+📌 **[⚡ Urban Energy Forecasting (Bachelor Thesis Project)]([GitHub Repo Link](https://github.com/nauanova02/data-analysis-project.git))**  
+🔹 Developed a **data-driven energy forecasting model** using **Python, Random Forest, KNN & Time-Series Analysis**  
 🔹 Optimized energy predictions for **smart city planning**  
 
 👉 Check out more projects in my repositories! 🔗 [GitHub Portfolio](https://github.com/aidanauanova)  
