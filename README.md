@@ -1,7 +1,7 @@
 ## Hi there, I'm Aida Nauanova 👋
 🚀 Data Scientist | Cloud Computing | AI | Business Intelligence 
 
-🎓 **Master in Computer Science, Sustainable Computing, and Complex Systems Engineering**  
+🎓 **Erasmus Mundus Scholar** | Master’s in **Computer Science, Sustainable Computing, and Complex Systems Engineering**  
 📍 Based in **Skellefteå, Sweden** | 🌱 Passionate about AI, Cloud & Data Science  
 
 ---
