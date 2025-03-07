@@ -43,7 +43,10 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 🔹 Developed a **data-driven energy forecasting model** using **Python, Random Forest, KNN & Time-Series Analysis**  
 🔹 Optimized energy predictions for **smart city planning**  
 
-👉 Check out more projects in my repositories! 🔗 [GitHub Portfolio](https://github.com/aidanauanova)  
+📌 **[📄 Research Paper: Energy Consumption Analysis](https://github.com/nauanova02/sustainable-predicting-model.git)**  
+🔹 Investigated the **trade-off between model accuracy & energy consumption** using **Random Forest, XGBoost & Linear Regression**  
+🔹 Evaluated **ML energy footprint** using **CodeCarbon** and **ANOVA statistical analysis**  
+🔹 Explored **hyperparameter tuning’s impact** on computational efficiency  
 
 ---
 ## **🎓 Certifications**
