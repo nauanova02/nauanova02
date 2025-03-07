@@ -35,7 +35,7 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 🔹 Built a **distributed JADE multi-agent system** and deployed it on **AWS EC2**  
 🔹 Implemented **Auto Scaling & Load Balancing** to optimize performance  
 
-📌 **[📡 IoT-Based Comfort Prediction](GitHub Repo Link)**  
+📌 **[📡 IoT-Based Comfort Prediction]([GitHub Repo Link](https://github.com/nauanova02/comfort-prediction.git))**  
 🔹 Processed real-time **IoT sensor data** using **MQTT & MongoDB**  
 🔹 Built an **XGBoost-based time series model** for smart comfort prediction  
 
