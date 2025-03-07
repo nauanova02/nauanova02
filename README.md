@@ -49,8 +49,9 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 ## **🎓 Certifications**
 📌 **AWS Academy Graduate - Cloud Foundations** (2022)  
 📌 **AWS Academy Graduate - Machine Learning Foundations** (2022)  
-📌 **Stanford Genius Zone Leadership Program** (2019)  
-
+📌 **Power BI for Information Management by UNICEF** (2022)  
+📌 **IT Essentials by CISCO** (2021)  
+📌 **Stanford Genius Zone Leadership Program by Standford University** (2019)  
 ---
 ## **🌍 Connect With Me**
 📌 **LinkedIn:** [linkedin.com/in/aidanauanova](https://linkedin.com/in/aidanauanova)  
