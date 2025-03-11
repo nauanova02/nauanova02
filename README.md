@@ -12,43 +12,8 @@ I specialize in **Data Science, Artificial Intelligence, and Cloud Computing**, 
 I have hands-on experience working with **real-time IoT data, blockchain applications, and multi-agent systems** to solve complex challenges in **business analytics, smart cities, and intelligent computing**.  
 
 ---
+
  
-## **🛠️ Technical Skills**
-
-### **📊 Data Analytics & Business Intelligence**
-✅ **Data Analysis & Manipulation:** Pandas, NumPy, SQL (PostgreSQL, MySQL), Excel (Pivot Tables, VBA)  
-✅ **Data Visualization & Reporting:** Power BI (DAX), Tableau, Matplotlib, Seaborn  
-✅ **Statistical Analysis & Hypothesis Testing:** Scipy, Statsmodels, ANOVA  
-✅ **ETL & Data Processing:** SQL Queries, Apache Spark (PySpark), Google BigQuery 
-✅ **Business & Financial Analytics:** Time-Series Forecasting (ARIMA, Lag Features, Exponential Smoothing)  
-
-### **🤖 Machine Learning & AI**
-✅ **Supervised & Unsupervised Learning:** Scikit-Learn, XGBoost, Random Forest, KNN, GNN, LSTM
-✅ **Deep Learning & Neural Networks:** TensorFlow, Keras  
-✅ **Predictive Analytics & Optimization:** Regression, Classification, Clustering, Hyperparameter Tuning  
-
-### **🗄️ Databases & Big Data**
-✅ **Relational Databases:** PostgreSQL, MySQL  
-✅ **NoSQL & Cloud Databases:** MongoDB, Google Cloud Storage, AWS S3  
-✅ **Big Data Technologies:** Apache Spark (PySpark), Hadoop  
-
-### **☁️ Cloud Computing & DevOps**
-✅ **Cloud Platforms:** AWS (EC2, S3, Lambda, Auto Scaling, Load Balancing)  
-✅ **Deployment & Scaling:** Docker, Kubernetes  
-✅ **CI/CD & Infrastructure Automation:** Terraform, Jenkins  
-
-### **🖥️ Programming & Software Development**
-✅ **Programming Languages:** Python, SQL, R, Java  
-✅ **Software Development Concepts:** OOP, REST APIs, Distributed Systems  
-✅ **Networking & IoT:** MQTT, Mosquitto, JADE (Multi-Agent Systems)  
-
-### **🔗 Blockchain & Smart Contracts**
-✅ **Smart Contract Development:** Solidity, Web3.js  
-✅ **Permissioned Blockchain Platforms:** Quorum  
-✅ **Decentralized Applications (DApps):** Ethereum
- 
----
-
 ## **📌 Featured Projects**
 Here are some of my best projects that showcase my skills in **Data Science, Cloud Computing, and AI**:
 
@@ -74,6 +39,42 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 🔹 Explored **hyperparameter tuning’s impact** on computational efficiency  
 
 ---
+## **🛠️ Technical Skills**
+
+### **📊 Data Analytics & Business Intelligence**
+✅ **Data Analysis & Manipulation:** Pandas, NumPy, SQL (PostgreSQL, MySQL), Excel (Pivot Tables, VBA)  
+✅ **Data Visualization & Reporting:** Power BI (DAX), Tableau, Matplotlib, Seaborn  
+✅ **Statistical Analysis & Hypothesis Testing:** Scipy, Statsmodels, ANOVA  
+✅ **ETL & Data Processing:** SQL Queries, Apache Spark (PySpark), Google BigQuery  
+✅ **Business & Financial Analytics:** Time-Series Forecasting (ARIMA, Lag Features, Exponential Smoothing)  
+
+### **🤖 Machine Learning & AI**
+✅ **Supervised & Unsupervised Learning:** Scikit-Learn, XGBoost, Random Forest, KNN, GNN, LSTM  
+✅ **Deep Learning & Neural Networks:** TensorFlow, Keras  
+✅ **Predictive Analytics & Optimization:** Regression, Classification, Clustering, Hyperparameter Tuning  
+
+### **🗄️ Databases & Big Data**
+✅ **Relational Databases:** PostgreSQL, MySQL  
+✅ **NoSQL & Cloud Databases:** MongoDB, Google Cloud Storage, AWS S3  
+✅ **Big Data Technologies:** Apache Spark (PySpark), Hadoop  
+
+### **☁️ Cloud Computing & DevOps**
+✅ **Cloud Platforms:** AWS (EC2, S3, Lambda, Auto Scaling, Load Balancing)  
+✅ **Deployment & Scaling:** Docker, Kubernetes  
+✅ **CI/CD & Infrastructure Automation:** Terraform, Jenkins  
+
+### **🖥️ Programming & Software Development**
+✅ **Programming Languages:** Python, SQL, R, Java  
+✅ **Software Development Concepts:** OOP, REST APIs, Distributed Systems  
+✅ **Networking & IoT:** MQTT, Mosquitto, JADE (Multi-Agent Systems)  
+
+### **🔗 Blockchain & Smart Contracts**
+✅ **Smart Contract Development:** Solidity, Web3.js  
+✅ **Permissioned Blockchain Platforms:** Quorum  
+✅ **Decentralized Applications (DApps):** Ethereum
+ 
+
+---
 ## **🎓 Certifications**
 📌 **AWS Academy Graduate - Cloud Foundations** (2022)  
 📌 **AWS Academy Graduate - Machine Learning Foundations** (2022)  
@@ -95,4 +96,4 @@ Here are some of my best projects that showcase my skills in **Data Science, Clo
 
 ---
 
-- ⚡ Fun fact: I love playing volleyball, tennis, skiing, and basically any sport activity :) 
+ ⚡ Fun fact: I love playing volleyball, tennis, skiing, and basically any sport activity :) 
